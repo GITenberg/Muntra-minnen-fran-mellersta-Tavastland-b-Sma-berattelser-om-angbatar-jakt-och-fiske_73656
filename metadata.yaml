@@ -1,0 +1,32 @@
+_repo: Muntra-minnen-fran-mellersta-Tavastland-b-Sma-berattelser-om-angbatar-jakt-och-fiske_73656
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kauffmann, Hermann
+    birthdate: 1840
+    deathdate: 1908
+    gutenberg_agent_id: '57168'
+    url: http://www.gutenberg.org/2009/agents/57168
+    wikipedia: https://fi.wikipedia.org/wiki/Hermann_Kauffman
+description: ''
+gutenberg_issued: '2024-05-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73656'
+language: sv
+pgterms:marc905: 20160809232737kauffmann
+pgterms:marc906: '1902'
+pgterms:marc907: FI
+production_note: Harry Lönnrot and Tapio Riikonen
+publication_note: '  $aHelsingfors :$bFörfattarens förlag, $c1902.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Kauffmann, Hermann, 1840-1908'
+- !lcsh 'Hämeen lääni (Finland) -- Description and travel'
+- !lcc 'DL'
+- GITenberg
+title: 'Muntra minnen från mellersta Tavastland : $b Små berättelser om ångbåtar,
+  jakt och fiske'
+url: http://www.gutenberg.org/ebooks/73656
