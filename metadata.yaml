@@ -1,5 +1,8 @@
 _repo: Muntra-minnen-fran-mellersta-Tavastland-b-Sma-berattelser-om-angbatar-jakt-och-fiske_73656
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Kauffmann, Hermann
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/57168
     wikipedia: https://fi.wikipedia.org/wiki/Hermann_Kauffman
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73656#Muntra-minnen-fran-mellersta-Tavastland-b-Sma-berattelser-om-angbatar-jakt-och-fiske
 gutenberg_issued: '2024-05-20'
 gutenberg_type: Text
 identifiers:
